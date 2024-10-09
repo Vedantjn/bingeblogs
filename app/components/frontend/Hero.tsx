@@ -18,7 +18,7 @@ export function Hero() {
             <Image src={Logo} className="size-10" alt="Logo" />
 
             <h4 className="text-3xl font-semibold">
-              Blog<span className="text-primary">Marshal</span>
+              Binge<span className="text-primary">Blogs</span>
             </h4>
           </Link>
           <div className="md:hidden">
